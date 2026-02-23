@@ -1,5 +1,3 @@
-# bike-buyers-excel-dashboard
-Excel data analysis project with dashboard, pivot tables, and customer insights using Bike Buyers dataset.
 # 🚴 Bike Buyers Excel Dashboard Project
 
 ## 📊 Project Overview
@@ -50,5 +48,5 @@ It includes data cleaning, transformation, pivot table analysis, and an interact
 
 ## 👩‍💻 Author
 
-**Jyothi Gadela**
+**Nirmal jyothi Gadela**
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
