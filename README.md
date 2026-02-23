@@ -5,6 +5,9 @@
 This project demonstrates end-to-end data analysis in Microsoft Excel using the Bike Buyers dataset.
 It includes data cleaning, transformation, pivot table analysis, and an interactive dashboard.
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ---
 
 ## 📁 Project Files
